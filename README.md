@@ -1,6 +1,6 @@
 ### Hi there 😺
 
-🧑‍🏭 👷 Take a look at [my pull requests](https://github.com/search?q=author:jamuir+type:pr)
+🧑‍🏭 👷 You can take a look at my various pull requests [here](https://github.com/search?q=author:jamuir+type:pr)
 
 🔑 🗝️ Do you need an HSM?  Check out Crypto4A: http://crypto4a.com
 
