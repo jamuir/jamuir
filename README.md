@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 😺
+
+🧑‍🏭 👷 Take a look at [my pull requests](https://github.com/search?q=author:jamuir+type:pr)
+
+🔑 🗝️ Do you need an HSM?  Check out Crypto4A: http://crypto4a.com
 
 <!--
 **jamuir/jamuir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
